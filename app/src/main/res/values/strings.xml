@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mnkcap</string>
+    <string name="bmi_calc"><b>BMI Calculator</b></string>
+    <string name="protein_calc"><b>Protein Intake Calculator</b></string>
+    <string name="workout_save_button">Save Workout</string>
+</resources>
